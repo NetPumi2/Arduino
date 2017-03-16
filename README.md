@@ -8,7 +8,10 @@ My progress in learning Arduino...
 | ------ | ------ | ------ |
 | Step Motor |
 |  | [Step Motor #1] [SMNUM1] | Basic connection
-
+| Bluetooth |
+|  | [Bluetooth #1] [BTNUM1] | Basic connection
 
 
    [SMNUM1]: <https://github.com/NetPumi2/Arduino/blob/master/Basic/StepMotor/StepMotorBasicConnection/README.md>
+    
+   [BTNUM1]: <https://github.com/NetPumi2/Arduino/blob/master/Basic/Bluetooth/BluetoothBasicConnection/README.md>
