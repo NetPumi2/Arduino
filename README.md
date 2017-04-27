@@ -17,6 +17,8 @@ My progress in learning Arduino...
 |  | [LCD #2] [LCDNUM2] | Basic connection with 4 pin connector.
 | Tilt Sensor |
 | SW-520D | [Tilt Sensor #1] [TILTSNUM1] | Basic connection
+| Water Sensor |
+|  | [Water Sensor #1] [WATSNUM1] | Basic connection
 
    [SMNUM1]: <https://github.com/NetPumi2/Arduino/blob/master/Basic/StepMotor/StepMotorBasicConnection/README.md>
 
@@ -29,3 +31,6 @@ My progress in learning Arduino...
    [LCDNUM2]: <https://github.com/NetPumi2/Arduino/blob/master/Basic/LCD16x2/LCD16x2-4PinBasicConnection2/README.md>
 
    [TILTSNUM1]: <https://github.com/NetPumi2/Arduino/blob/master/Basic/TiltSensor/SW-520D/TiltSensorSW-520DBasicConnection/README.md>
+
+   [WATSNUM1]:
+   <https://github.com/NetPumi2/Arduino/blob/master/Basic/WaterSensor/WaterSensorBasicConnection/README.md>
